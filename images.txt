@@ -14,3 +14,4 @@ xhofe/alist:latest
 bitnami/minio:latest
 b3log/siyuan:latest
 networkstatic/iperf3:latest
+ghcr.io/gchq/cyberchef:latest
