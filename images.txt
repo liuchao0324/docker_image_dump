@@ -15,3 +15,5 @@ bitnami/minio:latest
 b3log/siyuan:latest
 networkstatic/iperf3:latest
 ghcr.io/gchq/cyberchef:latest
+linuxserver/duplicati
+dushixiang/guacd
