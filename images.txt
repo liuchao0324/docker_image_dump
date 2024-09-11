@@ -2,4 +2,4 @@ emqx/emqx:5.7.1
 redis:latest
 nginx:latest
 rabbitmq:latest
-zlmediakit:latest
+zlmediakit/zlmediakit:master
