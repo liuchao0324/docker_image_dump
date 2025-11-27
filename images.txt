@@ -4,4 +4,3 @@ nginx:latest
 rabbitmq:latest
 zlmediakit/zlmediakit:master
 mysql:latest
-openjdk:8-jdk-alpine
