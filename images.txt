@@ -1,7 +1,1 @@
-emqx/emqx:5.7.1
-redis:latest
-nginx:latest
-rabbitmq:latest
-zlmediakit/zlmediakit:master
-mysql:latest
-eclipse-temurin:8-jdk-alpine
+minio/minio:latest
